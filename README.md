@@ -54,4 +54,10 @@
                       *total hours worked
                       *hours worked by staff member
                       *cost per staff member
+
+###### Technology Used
+           1.Design and Model Database: Use MySQL Workbench to design and model MySQL database schema. Create tables, define relationships, and populate the database with relevant data.
+           2.Connect Looker Studio to MySQL Database: In Looker Studio, set up a connection to  MySQL database using the necessary connection details (host, port, username, password). This connection will allow Looker to access the data in  MySQL database.
+           3.Define Data Models in Looker: In Looker Studio, create data models that map to the tables and views in your MySQL database. Looker provides a modeling layer that allows you to transform and aggregate data for analysis.
+           4.Build Dashboards and Reports: With the data models defined,  use Looker Studio's drag-and-drop interface to build interactive dashboards and reports.Visualizations can be created based on the data models you defined. 
                       
