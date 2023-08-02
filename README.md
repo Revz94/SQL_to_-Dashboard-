@@ -30,5 +30,28 @@
            4. Staff Data Requirements
                   1.which staff members are working and when
                   2.Based on the staff salaray information,howmuch each pizza costs
-           Technologies Used
-           
+###### Dashboard Features
+           1.Dashboard -1  Order Activity
+                     *Total Orders
+                     *Total Sales
+                     *Total items
+                     *Average order value
+                     *Sales by category
+                     *top selling items
+                     *order by hour
+                     *sales by hour
+                     *sales by address
+                     *orders by address
+                     *orders by delivery/pickup
+           2.Dashboard -2 Inventory Management 
+                     *total quantity by ingredient 
+                     *total cost of ingredient
+                     *calculated cost of pizza
+                     *percentage stock remaining by ingredient
+                     *list of ingredients to reorder based on remaining inventory 
+           3.Dashboard -3 Staff Activity
+                      *total staff cost
+                      *total hours worked
+                      *hours worked by staff member
+                      *cost per staff member
+                      
