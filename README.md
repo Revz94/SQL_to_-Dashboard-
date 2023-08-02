@@ -11,27 +11,24 @@
           Designing database and the tables in it is to spec out all of the field for the data we want to collect.Then Normalizing the data by adding more related tables and defining the table relationship 
 
 ###### Database Features
-1. Main Area of focus
-       Orders
-       Stock Control
-       Staff
-   
-2.  Orders Data Required:
-        Order ID
-        item name
-        item Price
-        quantity
-        coustomer name
-        delivery address
-3. Stock Control Reqirements
-       1.When its time to order new stock
-       2.What ingredients go into each pizza and their quantity based on the size of the pizza
-       3. existing stock level
-       4. we will assume the lead time for delivery by suppliers is the same for all ingredients 
-   
-4. Staff Data Requirements
-       1.which staff members are working 
-Technologies Used
-SQL: Used to manage and query the pizza-related data from the database.
-Web Dashboard Framework (e.g., Dash, Shiny, Django): Powers the interactive visualization and user interface.
-HTML, CSS, JavaScript: For styling and enhancing the user experience.
+           1. Main Area of focus:
+                  *Orders
+                  *Stock Control
+                  *Staff
+           2.  Orders Data Required:
+                   *Order ID
+                   *item name
+                   *item Price
+                   *quantity
+                   *coustomer name
+                   *delivery address
+           3. Stock Control Reqirements
+                  1.When its time to order new stock
+                  2.What ingredients go into each pizza and their quantity based on the size of the pizza
+                  3. existing stock level
+                  4. we will assume the lead time for delivery by suppliers is the same for all ingredients 
+           4. Staff Data Requirements
+                  1.which staff members are working and when
+                  2.Based on the staff salaray information,howmuch each pizza costs
+           Technologies Used
+           
