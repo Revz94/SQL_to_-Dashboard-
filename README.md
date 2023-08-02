@@ -5,7 +5,7 @@
 ### Pizza Resturant Database to Interactive Dashboard
 
 ###### Scenario:
-           Design and Build a tailor-made bespoke relational database for newly opend pizza resturant business that will allow to capture and store all the important information and data that the business generates .This will trun help to monitor business performance in dashbords.
+          •Design and build a tailor-made bespoke relational database for a newly opened pizza restaurant business that will allow capturing and storage of all the important information and data that the business generates. This will turn help to monitor business performance in dashboards.
 
 ###### Approach:
           Designing database and the tables in it is to spec out all of the field for the data we want to collect.Then Normalizing the data by adding more related tables and defining the table relationship 
